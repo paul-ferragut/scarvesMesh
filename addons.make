@@ -1,0 +1,7 @@
+ofxAssimpModelLoader
+ofxColorGradient
+ofxGui
+ofxNetwork
+ofxOsc
+ofxVectorGraphics
+ofxXmlSettings
